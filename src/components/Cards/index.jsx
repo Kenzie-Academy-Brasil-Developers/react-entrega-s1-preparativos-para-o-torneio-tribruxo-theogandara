@@ -1,4 +1,4 @@
-const Cards = ({ student}) => {
+const Cards = ({ student, }) => {
   return (
     <div className="container">
       <h2>{student?.name}</h2>
